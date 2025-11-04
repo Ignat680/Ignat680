@@ -44,4 +44,5 @@ Bridging the gap between vision and execution.**
 - [LinkedIn](https://linkedin.com/in/username)  
 - [GitHub](https://github.com/username)  
 - [Email](mailto:username@example.com)
+---
 
