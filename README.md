@@ -36,7 +36,7 @@ Bridging the gap between vision and execution.**
 - Project Delivery Excellence  
 - Resource and Timeline Management  
 - Agile Transformation & Team Coaching  
-- Continuous Improvement  
+- Continuous Improvement. 
 
 ---
 
