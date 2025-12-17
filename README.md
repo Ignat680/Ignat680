@@ -45,4 +45,3 @@ Bridging the gap between vision and execution.**
 - [GitHub](https://github.com/username)  
 - [Email](mailto:username@example.com)
 
------
